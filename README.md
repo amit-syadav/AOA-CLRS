@@ -1,3 +1,4 @@
 # AOA-CLRS in C lang
-algorithms as per CLRS cormen
-Written in C/C++
+algorithm code written as per CLRS cormen
+Coded in C/C++
+Checked in Dev-cpp
